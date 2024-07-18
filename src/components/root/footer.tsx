@@ -52,7 +52,7 @@ export default function Footer() {
 				<p>Сделано с ❤️ для Клуба Японской Культуры</p>
 				<div className="flex justify-around flex-wrap *:text-center *:px-1">
 					<p>Разработано: <a className="underline text-blue-500 hover:text-blue-600" href="https://poti.netlify.app/">POTI</a></p>
-					<p>Код на <a className="underline text-blue-500 hover:text-blue-600" href="https://github.com/IMrProYTI/japan">Github</a></p>
+					<p>Код на <a className="underline text-blue-500 hover:text-blue-600" href="https://github.com/IMrProYTI/next-japan">Github</a></p>
 				</div>
 			</div>
 		</footer>
