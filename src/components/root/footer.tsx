@@ -1,5 +1,3 @@
-import Image from "next/image"
-
 import ImageLink from "@/components/root/footer/ImageLink"
 import ExternalLink from "@/components/root/footer/ExternalLink"
 
