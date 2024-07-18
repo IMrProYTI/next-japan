@@ -7,7 +7,16 @@ export default function Header() {
 			<nav className="flex divide-x divide-neutral-800">
 				<Link href="/">Главная</Link>
 				<Link href="/gallery">Галерея</Link>
-				<Link href="/admin">Админка</Link>
+				<a
+					className="
+						flex justify-center items-center
+						w-auto h-full px-2 text-sm
+						text-white bg-neutral-700 hover:bg-neutral-600
+					"
+					href="https://old-japanclub.netlify.app/admin"
+				>
+					Админка
+				</a>
 			</nav>
 			<div className="flex-center pe-2">
 				<Icon
